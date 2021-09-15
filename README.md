@@ -10,5 +10,3 @@ What does this repo contains?
 
 `recommender.py` _ ready to implement in project. _
 `content-based recommendation (movies).ipynb` _ notebook explaination of recommen system _
-=======
-# Movie-Recommendation
